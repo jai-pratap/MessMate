@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 data/*.db
 data/qr_codes/*.png
+hostel_data.json
+__pycache__/
+.DS_Store
